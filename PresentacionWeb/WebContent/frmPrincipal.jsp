@@ -9,6 +9,6 @@
 <body>
 	<h3>Pagina Principal</h3>
 	<br/>
-	<a href="frmRegistroPersona.jsp">Registro de Persona</a>
+	<a href="frmRegistroPersona.jsp">Registro de Persona</a>    
 </body>
 </html>
