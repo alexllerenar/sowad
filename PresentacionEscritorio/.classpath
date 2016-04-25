@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="CapaLogica"/>
+	<classpathentry kind="src" path="CapaEntidades"/>
+	<classpathentry kind="src" path="CapaDAO"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="C:/Nueva carpeta/SistemaVentas/PresentacionMVC/src/main/webapp/WEB-INF/lib/sqljdbc41.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
